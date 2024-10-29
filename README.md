@@ -16,3 +16,6 @@ MAILER_SECRET_KEY=
 PROD=false
 
 ´´´
+
+# npm install
+# npm run dev
