@@ -10,5 +10,5 @@ import { envs } from "./config/plugins/envs.plugin";
 
 function main() {
     //  console.log(envs);
-    //  Server.start()
+     Server.start()
 }
